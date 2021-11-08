@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaqian Liu"
+title: "Siyuan Wu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,14 +13,14 @@ redirect_from:
 
 Contact
 ======
-liujiaqian@smail.nju.edu.cn
+1278014944@qq.com
 
-Nanjing University Xianlin Campus,
-163 Xianlin Avenue, Qixia District,
-Nanjing, Jiangsu 210023, China
+JiLin University South Campus,
+2699 Qianjin Avenue, Chaoyang District,
+Changchun, JiLin 130012, China
 
 Research Interests
 ======
-Wireless sensor networks, wireless networks.
+Edge computing, Block chain.
 
 
