@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* $\color{red}{[Springer]}$ Limin Wang, Peng Chen, Musa Mammadov, Yang Liu, **Si-Yuan Wu**. [Alleviating the independence assumptions of averaged one-dependence estimators by model weighting.](https://content.iospress.com/articles/intelligent-data-analysis/ida205400) Intelligent Data Analysis, vol. 25, no. 6, pp. 1431-1451, 2021
+* $\color{red}{[Dblp]}$ Limin Wang, Peng Chen, Musa Mammadov, Yang Liu, **Si-Yuan Wu**. [Alleviating the independence assumptions of averaged one-dependence estimators by model weighting.](https://content.iospress.com/articles/intelligent-data-analysis/ida205400) Intelligent Data Analysis, vol. 25, no. 6, pp. 1431-1451, 2021
 
 <!-- 
 
