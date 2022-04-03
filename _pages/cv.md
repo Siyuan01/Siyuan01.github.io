@@ -16,6 +16,11 @@ Education
 Supervisor: Professor [Guihai Chen](https://cs.nju.edu.cn/gchen/), Research Assistant [Haipeng Dai](https://cs.nju.edu.cn/daihp/index.htm). -->
 * 2018.09-Present B.S. [College of Computer Science and technology](http://ccst.jlu.edu.cn/), [JiLin University](http://www.jlu.edu.cn/), Changchun, JiLin, China.
 
+Projects
+======
+* 2022.03-Present: [A sparse matrix filled recommendation system for graduation design.](https://github.com/Siyuan01/MovieLens-Recommender-master)
+
+
 <!-- 
 Award & Honnors
 ======
