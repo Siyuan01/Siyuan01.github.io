@@ -12,13 +12,13 @@ redirect_from:
 
 Education
 ======
-<!-- * 2019.09-Present: Ph.D. candidate (successive master-doctor program), [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
-Supervisor: Professor [Guihai Chen](https://cs.nju.edu.cn/gchen/), Research Assistant [Haipeng Dai](https://cs.nju.edu.cn/daihp/index.htm). -->
-* 2018.09-Present B.S. [College of Computer Science and technology](http://ccst.jlu.edu.cn/), [JiLin University](http://www.jlu.edu.cn/), Changchun, JiLin, China.
+* 2022.09-Present: Ph.D. candidate, [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/), Nanjing, Jiangsu, China.  
+Supervisor: Professor [Wanchun Dou](http://cs.nju.edu.cn/douwanchun). 
+* 2018.09-2022.06 B.S. [College of Computer Science and technology](http://ccst.jlu.edu.cn/), [JiLin University](http://www.jlu.edu.cn/), Changchun, JiLin, China.
 
 Projects
 ======
-* 2022.03-Present: [A sparse matrix filled recommendation system for graduation design.](https://github.com/Siyuan01/MovieLens-Recommender-master)
+* 2022.03-2022.05: [A sparse matrix filled recommendation system for graduation design.](https://github.com/Siyuan01/MovieLens-Recommender-master)
 
 
 <!-- 
