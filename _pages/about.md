@@ -15,12 +15,9 @@ Contact
 ======
 1278014944@qq.com
 
-JiLin University South Campus,
-2699 Qianjin Avenue, Chaoyang District,
-Changchun, JiLin 130012, China
-
+Nanjing University Xianlin Campus, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu 210023, China
 Research Interests
 ======
-Edge computing, Block chain.
+Edge computing, Federated learning.
 
 
