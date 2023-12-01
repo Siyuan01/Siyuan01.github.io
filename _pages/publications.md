@@ -20,7 +20,6 @@ author_profile: true
 * $\color{red}{[SPE]}$ **Wu, S**, Zhang, G, Dai, F, Liu, B, Dou, W. [An edge-assisted federated contrastive learning method with local intrinsic dimensionality in noisy label environment.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.3295) Softw: Pract Exper. 2023; 1-18. doi: 10.1002/spe.3295
   
 <!-- 
-
 * $\color{red}{[INFOCOM]}$ **Nan Yu**, Haipeng Dai, Alex X. Liu and Bingchuan Tian. [Placement of Connected Wireless 
 Chargers.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485934) In Proceedings of the 37th Annual IEEE International Conference on Computer Communications (INFOCOM), Honolulu, HI, USA, April 15-19, 2018. Acceptance rate: 309/1606 = 19.2%.
 * $\color{red}{[Ubicomp]}$ **Nan Yu**, Wei Wang, Alex X. Liu and Lingtao Kong. [QGesture: Quantifying Gesture Distance and Direction with WiFi Signals.](https://dl.acm.org/citation.cfm?id=3191783) In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiCOMP), Volume 2 ,Issue 1, Article No. 51, March 2018.
