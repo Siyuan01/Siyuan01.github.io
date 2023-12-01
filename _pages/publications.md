@@ -15,8 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* $\color{red}{[Dblp]}$ Limin Wang, Peng Chen, Musa Mammadov, Yang Liu, **Si-Yuan Wu**. [Alleviating the independence assumptions of averaged one-dependence estimators by model weighting.](https://content.iospress.com/articles/intelligent-data-analysis/ida205400) Intelligent Data Analysis, vol. 25, no. 6, pp. 1431-1451, 2021
+* $\color{red}{[IDA]}$ Limin Wang, Peng Chen, Musa Mammadov, Yang Liu, **Si-Yuan Wu**. [Alleviating the independence assumptions of averaged one-dependence estimators by model weighting.](https://content.iospress.com/articles/intelligent-data-analysis/ida205400) Intelligent Data Analysis, vol. 25, no. 6, pp. 1431-1451, 2021
 
+* $\color{red}{[SPE]}$ **Wu, S**, Zhang, G, Dai, F, Liu, B, Dou, W. [An edge-assisted federated contrastive learning method with local intrinsic dimensionality in noisy label environment.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.3295) Softw: Pract Exper. 2023; 1-18. doi: 10.1002/spe.3295
 <!-- 
 
 * $\color{red}{[INFOCOM]}$ **Nan Yu**, Haipeng Dai, Alex X. Liu and Bingchuan Tian. [Placement of Connected Wireless 
