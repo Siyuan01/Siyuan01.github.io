@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=zh-CN&user=YnHkfTgAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=siyuanwumail%40gmail.com&gmla=AH8HC4xsr69ST_piYE3N1D3GPt7yDAG_9F1puQtB6ybE_J_yQX46zgKwOnZlCLhZ3xRgp1DeI4uPwBnOAOSdJh2l_-L1LWdChNjt63aE2ZGEVQBuiPs6ow4rGdgMFQf_8C0pRRytyg7c__bLJCWriHhIW-F7yKxq2Qq4DH_dAyo2IFb5ssAvQJ5yzYPCw44KYC2-L2KrSTJ0cE4dV6MjbZBgTIpXFh-u2kNgGiICgWbxF1ItwOc8CpIB1vp08cmw)}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
@@ -15,9 +15,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* $\color{red}{[IDA]}$ Limin Wang, Peng Chen, Musa Mammadov, Yang Liu, **Si-Yuan Wu**. [Alleviating the independence assumptions of averaged one-dependence estimators by model weighting.](https://content.iospress.com/articles/intelligent-data-analysis/ida205400) Intelligent Data Analysis, vol. 25, no. 6, pp. 1431-1451, 2021
+* $\color{red}{[IDA]}$ Limin Wang, Peng Chen, Musa Mammadov, Yang Liu, and **Siyuan Wu**. 2021. [Alleviating the independence assumptions of averaged one-dependence estimators by model weighting.](https://content.iospress.com/articles/intelligent-data-analysis/ida205400) Intell. Data Anal. 25, 6 (2021), 1431–1451. https://doi.org/10.3233/IDA-205400
 
-* $\color{red}{[SPE]}$ **Wu, S**, Zhang, G, Dai, F, Liu, B, Dou, W. [An edge-assisted federated contrastive learning method with local intrinsic dimensionality in noisy label environment.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.3295) Softw: Pract Exper. 2023; 1-18. doi: 10.1002/spe.3295
+* $\color{red}{[SPE]}$ **Siyuan Wu**, Guoming Zhang, Fei Dai, Bowen Liu, and Wanchun Dou. [An edge-assisted federated contrastive learning method with local intrinsic dimensionality in noisy label environment.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.3295) Software: Practice and Experience 54, 9 (September 2024), 1793–1810. https://doi.org/10.1002/spe.3295
+
+* $\color{red}{[ADMA'24]}$ **Siyuan Wu**, Hao Tian, Weiran Zhang, Tingtong Zhu, Fuwen Tian, Zhehong Wang, and Wanchun Dou. [A Heterogeneous Federated Learning Method Based on Dual Teachers Knowledge Distillation.](https://link.springer.com/chapter/10.1007/978-981-96-0814-0_13) In Advanced Data Mining and Applications, 2024. Springer Nature Singapore, Singapore, 192–207.
+
+* $\color{red}{[AAAI'25]}$ **Siyuan Wu**, Yongzhe Jia, Bowen Liu, Haolong Xiang, Xiaolong Xu, and Wanchun Dou. [PFedCS: A Personalized Federated Learning Method for Enhancing Collaboration among Similar Classifiers.](https://ojs.aaai.org/index.php/AAAI/article/view/35460) AAAI 39, 20 (April 2025), 21572–21580. https://doi.org/10.1609/aaai.v39i20.35460.
+
+* $\color{red}{[NeurIPS'25]}$ **Siyuan Wu**, Yongzhe Jia, Haolong Xiang, Xiaolong Xu, Xuyun Zhang, Lianyong Qi, Wanchun Dou*. A Fair Federated Learning Method for Handling Client Participation Probability Inconsistencies in Heterogeneous Environments. In The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
+
   
 <!-- 
 * $\color{red}{[INFOCOM]}$ **Nan Yu**, Haipeng Dai, Alex X. Liu and Bingchuan Tian. [Placement of Connected Wireless 
