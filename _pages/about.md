@@ -13,9 +13,9 @@ redirect_from:
 
 Contact
 ======
-1278014944@qq.com
+sywu@smail.nju.edu.cn
 
-Nanjing University Xianlin Campus, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu 210023, China
+Nanjing University Xianlin Campus, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China
 
 
 Research Interests
