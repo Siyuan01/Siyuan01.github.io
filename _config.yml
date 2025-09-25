@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Siyuan Wu"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Department of Computer Science and Technology, NanJing University"
-  location         : "Nanjing, JiangSu, China"
+  bio              : "Ph.D. student at the School of Computer Science, Nanjing University"
+  location         : "Nanjing, Jiangsu, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "1278014944@qq.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=YnHkfTgAAAAJ"
+  email            : "sywu@smail.nju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
